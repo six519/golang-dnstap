@@ -20,7 +20,7 @@ import (
 	"io"
 	"time"
 
-	framestream "github.com/farsightsec/golang-framestream"
+	framestream "github.com/six519/golang-framestream"
 )
 
 // A Writer writes dnstap frames to its destination.

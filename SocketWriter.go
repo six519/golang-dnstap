@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	framestream "github.com/farsightsec/golang-framestream"
+	framestream "github.com/six519/golang-framestream"
 )
 
 // A SocketWriter writes data to a Frame Streams TCP or Unix domain socket,

@@ -17,7 +17,7 @@
 package dnstap
 
 import (
-	framestream "github.com/farsightsec/golang-framestream"
+	framestream "github.com/six519/golang-framestream"
 	"google.golang.org/protobuf/proto"
 )
 
